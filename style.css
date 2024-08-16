@@ -1,0 +1,35 @@
+
+body{
+background-color: grey;
+	padding: 100;
+	margin: 100;
+	display: flex;
+	justify-content: middle center;
+	min-height: 100vh;
+}
+header {
+
+text-align: center;
+
+}
+/* this is to make a box around the title */
+#wrapper{
+box-shadow: 0 2px 7px;
+color:black;
+position:flex;
+top:0;
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 250px;
+}
+/*this is forthe paragraph box and to make it so it is not in the titals box*/
+#paragraph{
+margin-top: 20;
+box-shadow: 0 2px 7px;
+color:whitesmoke;
+position:flex;
+top:50;
+margin-left: 50px;
+margin-right: 50px;
+}
+
